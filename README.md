@@ -21,3 +21,25 @@ CREATE TABLE users (
 );
 ```
 
+# Configuración de repositorio
+## Clonar la base de datos
+
+```
+git clone https://github.com/Aplicaciones-Web-Barron-UTNG/express_mysql_basico.git
+```
+
+## Cambiarse al directorio recien creado
+```
+cd express_mysql_basico
+```
+
+## Instalar las dependencias
+```
+npm install
+```
+
+## Ejecutar la aplicación
+```
+npm run dev 
+```
+
